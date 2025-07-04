@@ -4,6 +4,12 @@ This Excel dashboard visualizes Blinkit’s grocery sales performance, providing
 
 ---
 
+## 📸 Dashboard Preview
+
+![Blinkit Dashboard](Blinkitdashboard.png)
+
+---
+
 ## 🛠️ Tools Used
 - Microsoft Excel  
 - Pivot Tables  
@@ -69,6 +75,7 @@ Dynamic filtering by:
 
 ## 📁 Files Included
 - `Blinkit Grocery Data.xlsx` – Excel dashboard file (includes data & visualization tabs)
+- `Blinkitdashboard.png` – Dashboard screenshot image
 
 ---
 
